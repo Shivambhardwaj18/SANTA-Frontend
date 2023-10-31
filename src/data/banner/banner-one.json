@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/banner/target.jpg",
+    "title": "",
+    "subtitle": "",
+    "price": "",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/banner/presentation.jpg",
+    "title": "",
+    "subtitle": "",
+    "price": "",
+    "link": ""
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/banner/goal.jpg",
+    "title": "",
+    "subtitle": "",
+    "price": "",
+    "link": ""
+  }
+]
