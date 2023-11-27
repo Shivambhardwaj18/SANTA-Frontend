@@ -54,7 +54,12 @@ const FooterOne = ({
                     <Link to={process.env.PUBLIC_URL + "/about"}>About us</Link>
                   </li>
                   <li>
-                    <Link to={process.env.PUBLIC_URL + "#/"}>
+                    <Link
+                      to={
+                        process.env.PUBLIC_URL +
+                        "https://www.google.com/maps/place/65,+Block+M+Lajpat+Nagar+2+Rd,+Vinoba+Puri,+Block+M,+Lajpat+Nagar+II,+Lajpat+Nagar,+New+Delhi,+Delhi+110024/@28.5673445,77.2452239,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce3b1bfb84ef1:0x4f3f4ae885f135e8!8m2!3d28.5673445!4d77.2477988!16s%2Fg%2F11l5dv21lq?entry=ttu"
+                      }
+                    >
                       Store location
                     </Link>
                   </li>

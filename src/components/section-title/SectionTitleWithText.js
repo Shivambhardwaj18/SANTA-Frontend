@@ -9,30 +9,31 @@ const SectionTitleWithText = ({ spaceTopClass, spaceBottomClass }) => {
           <h5>Who Are We</h5>
           <h1>Welcome To Santa International</h1>
           <p>
-            Our ethics of working with modernized method and systems has helped
-            us to achieve the highest quality standard. The most notable
-            manufacturing technology used by us gives increased robustness and
-            products excellence. Our products water pump replacement parts are
-            manufactured by using the up-to-the-minute technology and machine
-            that offers them high-quality products. Regarding export, we believe
-            that it is the biggest business driver for our organization. This is
-            clearly evident, as, in few years of entering the export market; we
-            have successfully accomplished a noteworthy number of export orders
-            for, and are developing water pump assemblies for the USA and
-            various other countries. We had taken major steps to fortify
-            research both at the technical level as well as customer level. Our
-            marketing approach is anchored in the quality and customer
-            contentment we cater. The company is persistently adapting itself to
-            the changing demands of its customers in terms of new designs,
-            together with the wide-ranging product catalog of automotive water
-            pump assemblies. The aspiration to give our customer the most
-            excellent is revealed in our meticulously planned forward and
-            backward integration. Our efforts are always fixated at the future
-            growth. Automotive Waterpump Assemblies Parts The automobile water
-            pumps assembly that we proffer is manufactured by using
-            better-quality of raw material to make sure that they provide
-            durable performance. These are available in a variety of dimensions
-            and merchandise at reasonable prices.{" "}
+            We Santa International are a popular organization from 2003 in the
+            industry affianced in manufacturing, exporting and supplying a wide
+            variety of Steel Metal and Rubber Products. Our offered
+            product-array consists of Steel Metal Components, Agricultural
+            Implements, and Rubber Parts. Offered products are optimum in terms
+            of quality. These products are highly demanded by the clients in
+            various industries like agriculture, electric and many more.
+            Provided products are manufactured by using supreme grade components
+            at our end. We are offering these products in various specifications
+            to choose from. We have established a well-equipped infrastructure
+            facility. Our infrastructure facility is equipped with all the
+            required machines and tools for the manufacturing of the offered
+            products. For interrupt free process of our business, we have
+            divided our facility into various parts. To manage these
+            differentiated parts, we have chosen a team of trained
+            professionals. Together with this, for the ease of our customers, we
+            provide these products in standard and customize options. Backed by
+            a well-established distribution network, we have been capable of
+            delivering these products safely at the client end. Under the firm
+            direction of our mentor <strong>Mr. Ajay Gupta</strong>, we are
+            operating our business function in a progressive and productive
+            manner. His able managerial skills, honest business approach and
+            sound knowledge about the respected domain have enabled us
+            accomplishing our motives and earning the good reputation in this
+            competitive industry.{" "}
           </p>
         </div>
       </div>

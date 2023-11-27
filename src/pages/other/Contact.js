@@ -62,7 +62,7 @@ const Contact = () => {
         <div className="contact-area pt-100 pb-100">
           <div className="container">
             <div className="contact-map mb-10">
-              <GoogleMap lat={47.444} lng={-122.176} />
+              <GoogleMap lat={28.5673445} lng={77.2477988} />
             </div>
             <div className="custom-row-2">
               <div className="col-12 col-lg-4 col-md-5">
@@ -72,8 +72,8 @@ const Contact = () => {
                       <i className="fa fa-phone" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>+012 345 678 102</p>
-                      <p>+012 345 678 102</p>
+                      <p>+91 9810673093</p>
+                      <p>+91 9810673093</p>
                     </div>
                   </div>
                   <div className="single-contact-info">
@@ -82,13 +82,13 @@ const Contact = () => {
                     </div>
                     <div className="contact-info-dec">
                       <p>
-                        <a href="mailto:yourname@email.com">
-                          yourname@email.com
+                        <a href="mailto:santainternational@gmail.com">
+                          santainternational@gmail.com
                         </a>
                       </p>
                       <p>
-                        <a href="https://yourwebsitename.com">
-                          yourwebsitename.com
+                        <a href="https://santainternational@hotmail.com">
+                          santainternational@hotmail.com
                         </a>
                       </p>
                     </div>
@@ -98,8 +98,8 @@ const Contact = () => {
                       <i className="fa fa-map-marker" />
                     </div>
                     <div className="contact-info-dec">
-                      <p>Address goes here, </p>
-                      <p>street, Crossroad 123.</p>
+                      <p>F-93, Lajpat Nagar II, </p>
+                      <p>Lajpat Nagar 1, New Delhi-110024, Delhi, India.</p>
                     </div>
                   </div>
                   <div className="contact-social text-center">
@@ -111,20 +111,11 @@ const Contact = () => {
                         </a>
                       </li>
                       <li>
-                        <a href="//pinterest.com">
-                          <i className="fa fa-pinterest-p" />
+                        <a href="//instagram.com" title="Instagram">
+                          <i className="fa fa-instagram"></i>
                         </a>
                       </li>
-                      <li>
-                        <a href="//thumblr.com">
-                          <i className="fa fa-tumblr" />
-                        </a>
-                      </li>
-                      <li>
-                        <a href="//vimeo.com">
-                          <i className="fa fa-vimeo" />
-                        </a>
-                      </li>
+
                       <li>
                         <a href="//twitter.com">
                           <i className="fa fa-twitter" />

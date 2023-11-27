@@ -110,23 +110,13 @@ const ProductDescriptionInfo = ({
             </a>
           </li>
           <li>
-            <a href="//dribbble.com">
-              <i className="fa fa-dribbble" />
-            </a>
-          </li>
-          <li>
-            <a href="//pinterest.com">
-              <i className="fa fa-pinterest-p" />
-            </a>
-          </li>
-          <li>
             <a href="//twitter.com">
               <i className="fa fa-twitter" />
             </a>
           </li>
           <li>
-            <a href="//linkedin.com">
-              <i className="fa fa-linkedin" />
+            <a href="//instagram.com" title="Instagram">
+              <i className="fa fa-instagram"></i>
             </a>
           </li>
         </ul>
